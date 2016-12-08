@@ -59,7 +59,7 @@ Use a json file to indicate the services and layers to be backed up. It should l
 
 ## batch
 
-A sample `.bat` file is included
+A sample `.bat` file template to run this thing is included for reference. Modify to include correct paths to things.
 
 
 # Caveats
